@@ -24,7 +24,6 @@
 #SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 from itertools import product, repeat
-from pygnuplot import *
 import numpy as np
 from cmath import exp,pi
 import pickle
